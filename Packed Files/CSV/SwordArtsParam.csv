@@ -1,0 +1,16 @@
+ID,Name,disableParam_NT,disableParamReserve1,disableParamReserve2,swordArtsType,artsSpeedType,refStatus,isRefRightArts,isGrayoutLeftHand,isGrayoutRightHand,isGrayoutBothHand,reserve2,usePoint_L1,usePoint_L2,usePoint_R1,usePoint_R2,textId,useMagicPoint_L1,useMagicPoint_L2,useMagicPoint_R1,useMagicPoint_R2,swordArtsTypeNew,iconId,aiUsageId,
+5150,Promised Consort,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5150,-1,20,-1,10,316,0,11000000
+1169,Radahn's Rain,1,0,[0|0|0],0,2,0,1,1,0,0,0,0,0,0,0,1169,-1,-1,32,-1,169,21000,10004100
+4000,Spinning Gravity Thrust,0,0,[0|0|0],0,2,0,1,1,0,0,0,0,0,0,0,4000,-1,26,-1,12,260,0,11001501
+4160,Divine Beast Frost Stomp,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,4160,-1,18,-1,-1,283,0,11000002
+4220,Ghostflame Call,0,0,[0|0|0],0,2,0,1,1,0,0,0,0,0,0,0,4220,-1,15,10,10,364,0,12001103
+5100,Revenger's Blade,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5100,-1,15,-1,10,310,0,11004000
+5130,Blinkbolt: Twinaxe,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5130,-1,8,-1,10,314,0,11001002
+5140,Blinkbolt: Long-hafted Axe,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5140,-1,8,-1,13,315,0,11001002
+5190,Messmer's Assault,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5190,-1,15,-1,9,320,0,12001000
+5220,Golden Crux,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5220,-1,21,-1,10,323,0,12000003
+5240,White Light Charge,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5240,-1,10,-1,25,325,0,11001101
+5380,Flower Dragonbolt,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5380,-1,18,-1,-1,349,0,10000000
+5390,Kowtower's Resentment,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5390,-1,31,-1,-1,350,0,11000000
+5580,Lightspeed Slash,0,0,[0|0|0],0,1,0,1,1,0,0,0,0,0,0,0,5580,-1,32,-1,-1,370,0,11001101
+8000,,0,0,[0|0|0],0,1,0,0,0,1,1,0,0,0,0,0,4200,-1,-1,-1,-1,399,0,12001204

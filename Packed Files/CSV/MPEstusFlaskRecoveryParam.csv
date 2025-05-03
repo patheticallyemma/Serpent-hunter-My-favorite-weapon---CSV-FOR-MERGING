@@ -1,0 +1,8 @@
+ID,Name,host,invadeOrb_None,invadeOrb_Umbasa,invadeOrb_Berserker,invadeOrb_Sinners,invadeSign_None,invadeSign_Umbasa,invadeSign_Berserker,invadeSign_Sinners,invadeRing_Sinners,invadeRing_Rosalia,invadeRing_Forest,coopSign_None,coopSign_Umbasa,coopSign_Berserker,coopSign_Sinners,coopRing_RedHunter,invadeRing_Anor,paramReplaceRate,paramReplaceId,pad,
+20200,,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,10300,[0|0|0|0|0|0|0|0]
+20050,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,[0|0|0|0|0|0|0|0]
+20100,,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,10200,[0|0|0|0|0|0|0|0]
+20300,,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,10400,[0|0|0|0|0|0|0|0]
+20400,,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,10500,[0|0|0|0|0|0|0|0]
+20500,,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,10600,[0|0|0|0|0|0|0|0]
+20600,,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1,[0|0|0|0|0|0|0|0]
